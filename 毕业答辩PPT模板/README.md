@@ -17,19 +17,34 @@
 
 ### 如何获取PPT
 
-网上流传的比较多的都是获奖作品。
+网上流传的比较多的都是获奖作品，大概有280份PPT，假设每个学校两份入围作品，也有140个左右的学校的学生的作品入围，说不定你的学校就在其中！！
+
+#### 官方
 
 1. officeplus官网：[我给母校送模板第一届ppt](<http://www.officeplus.cn/search.shtml?key=我给母校送模板第一届&cat=ppt>)
-2. 非官网：PPT模板网--我给母校送模板](<http://ppt.hanhaiqikan.cn/tag/我给母校送模板>)
 
-非官网链接：
+#### 非官方
 
-<http://www.51pptmoban.com/zt/wogeimuxiaosongmoban/>
+1. [PPT模板网--我给母校送模板](<http://ppt.hanhaiqikan.cn/tag/我给母校送模板>)
 
-[我给母校送模板（第一届）专题列表](http://www.51pptmoban.com/zt/wogeimuxiaosongmoban/#)
+2. [51PPT模板网--我给母校送模板（第一届）专题列表](http://www.51pptmoban.com/zt/wogeimuxiaosongmoban/#)
 
+#### 百度云
 
+- 我给母校送模板--第一届高校PPT模板设计大赛（非压缩），具体文件详见 [我给母校送模板--第一届高校PPT模板设计大赛--获奖作品目录.txt](./我给母校送模板--第一届高校PPT模板设计大赛--获奖作品目录.txt)。
 
-链接：https://pan.baidu.com/s/1T1rskUlAU6-qiI2eLECRCA 
-提取码：htys 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+  > 链接：<https://pan.baidu.com/s/1T1rskUlAU6-qiI2eLECRCA>
+  > 提取码：htys 
+
+- 我给母校送模板--第一届高校PPT模板设计大赛--压缩版
+
+  > 链接：<https://pan.baidu.com/s/1kT-3M6ZORVOlOMCcllGoJA> 
+  > 提取码：htys
+
+### 第二届
+
+第二届中国高校PPT模板设计大赛：<https://ibenq.cn/event/ppt-template-competition>
+
+时间：2020-04-09 @ 00:00 – 2020-05-06 @ 23:59
+
+ps:也许你可以参加第三届！！
