@@ -44,3 +44,31 @@
 
 ![img](https://xiezuocat.com/static/img/wechat-service.jpg)
 
+## 参考文献
+
+**参考文献(即引文出处)的类型以单字母方式标识：**
+
+M——专著，
+
+C——论文集，
+
+N——报纸文章，
+
+J——期刊文章，
+
+D——学位论文，
+
+R——报告，
+
+S——标准，
+
+P——专利;
+
+对于不属于上述的文献类型，采用字母“Z”标识。
+
+![img](http://www.lunwenstudy.com/images/cankao_fanli.jpg)
+
+### 参考文献在线生成器
+
+- 参考文献自动生成器：<http://www.lunwenstudy.com/ckwx/>
+- 论文格式大师：<http://wenxian.aazz.cn/>
